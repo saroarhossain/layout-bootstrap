@@ -1,0 +1,76 @@
+.navbar-brand img {
+	width: 90px;
+
+}
+.navbar-nav .nav-link, .dropdown-item {
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 15px;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #333 !important;
+}
+.navbar-light .navbar-nav .nav-link:hover, .dropdown-item:hover{
+    text-decoration: none;
+    
+    
+     /* Old browsers */
+     /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg,  rgba(21,147,1,1) 0%,rgba(2,234,17,1) 100%); /* Chrome10-25,Safari5.1-6 */
+     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+     /* IE6-9 fallback on horizontal gradient */
+    border-radius: 10px;
+    color: white !important;
+}
+.nav-item{
+    /* padding: 5px; */
+}
+.post-section{}
+.card{
+	margin-bottom: 40px;
+}
+.card-img-top{
+    height: 245px;
+    object-fit: cover;
+}
+.card-body{
+
+}
+.card-body a{
+	  color: #fff !important;
+	  background-color: #0a9e01 !important;
+	  border: none !important;
+	  font-size: 17px;
+	  font-weight: 500;
+	  padding: 10px 30px;
+}
+.card-body a:hover{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#159301+0,02ea11+100 */
+	background: rgb(21,147,1); /* Old browsers */
+	background: -moz-linear-gradient(-45deg,  rgba(21,147,1,1) 0%, rgba(2,234,17,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg,  rgba(21,147,1,1) 0%,rgba(2,234,17,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg,  rgba(21,147,1,1) 0%,rgba(2,234,17,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#159301', endColorstr='#02ea11',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	cursor: pointer;
+	text-decoration: underline;
+}
+.btn-primary{
+  
+}
+.btn-primary:hover{
+	border: none !important;
+}
+
+.contact-section h1{}
+.contact-section p{}
+.custom-control {
+    padding-left: 40px;
+    
+}
+.custom-control2 {}
+.form-control {}
+.gl2{
+    margin-bottom: 50px;
+}
